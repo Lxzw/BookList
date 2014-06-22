@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+div.menu {
+	background-color: #cdcdcd;
+	height: 80px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+div.menu div {
+	height: 70px;
+	width:  15%;
+	background-color: #11cdcd;
+	float: left;
+	margin-top: 5px;
+	margin-right: 5px;
+	text-align: center;
+}
+
+div.content {
+	background-color: #cdcdcd;
+	margin-top: 50px;
+    text-align: center;
+}
+
+div.login {
+	margin-left: auto;
+    margin-right: auto;
+}
